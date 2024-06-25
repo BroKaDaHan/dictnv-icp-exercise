@@ -1,1 +1,1 @@
-# expert-rotary-phone
+# dictnv-icp-exercise
